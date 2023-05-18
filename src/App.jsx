@@ -8,8 +8,13 @@ function App() {
 
   return (
     <>
-      <h1>hello World</h1>
-      <p>this is third task </p>
+      <div class= "box">
+        <h1>hello World</h1>
+        <h2>this is the third task</h2>
+        <p>Done with the day</p>
+      </div>
+      <button>Done</button>
+      
     </>
   )
 }

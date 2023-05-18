@@ -1,7 +1,21 @@
 h1{
-  color:red;
+  color:black;
   text-align: center;
 }
-P{
+h2{
   text-align: center;
+}
+p{
+  text-align: center;
+}
+
+.box{
+  align-self: center;
+  background-color: lightblue;
+  
+}
+.button {
+  align-self: center;
+  text-align: center;
+  
 }
